@@ -1,4 +1,4 @@
-package com.company.ticket;
+package com.company.core;
 
 /**
  * Created by Kiryl_Parfiankou on 3/14/2017.

@@ -1,4 +1,4 @@
-package com.company.ticket;
+package com.company.core;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -30,5 +30,4 @@ public class ConsoleInput implements Observable {
             observer.update(message);
         }
     }
-
 }
